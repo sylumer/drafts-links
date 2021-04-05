@@ -1,0 +1,63 @@
+{"items": [
+
+	{
+		"title" : "Drafts Community/Forum",
+		"subtitle" : "URL = https://forums.getdrafts.com/",
+		"arg" : "https://forums.getdrafts.com/"
+	},
+	{
+		"title" : "Latest News & Updates topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/news/5",
+		"arg" : "https://forums.getdrafts.com/c/news/5"
+	},
+	{
+		"title" : "Latest Integration Guides topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/integration-guides/7",
+		"arg" : "https://forums.getdrafts.com/c/integration-guides/7"
+	},
+	{
+		"title" : "All Time",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/tips/11",
+		"arg" : "https://forums.getdrafts.com/c/tips/11"
+	},
+	{
+		"title" : "Latest Actions - Help & Questions topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/actions/6",
+		"arg" : "https://forums.getdrafts.com/c/actions/6"
+	},
+	{
+		"title" : "Latest Actions - Share What You've Made topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/actions-sharing/9",
+		"arg" : "https://forums.getdrafts.com/c/actions-sharing/9"
+	},
+	{
+		"title" : "Latest Scripting topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/scripting/13",
+		"arg" : "https://forums.getdrafts.com/c/scripting/13"
+	},
+	{
+		"title" : "Latest Issues topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/issues/10",
+		"arg" : "https://forums.getdrafts.com/c/issues/10"
+	},
+	{
+		"title" : "Latest General Discussion topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/uncategorized/1",
+		"arg" : "https://forums.getdrafts.com/c/uncategorized/1"
+	},
+	{
+		"title" : "Latest Syntaxes & Themes topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/syntaxes-themes/16",
+		"arg" : "https://forums.getdrafts.com/c/syntaxes-themes/16"
+	},
+	{
+		"title" : "Latest Feature Requests topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/features/12",
+		"arg" : "https://forums.getdrafts.com/c/features/12"
+	},
+	{
+		"title" : "Latest Site Feedback topics",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/site-feedback/3",
+		"arg" : "https://forums.getdrafts.com/c/site-feedback/3"
+	}
+]}

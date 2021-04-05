@@ -1,0 +1,288 @@
+{"items": [
+
+	{
+		"title" : "Drafts Script Reference",
+		"subtitle" : "URL = https://scripting.getdrafts.com/",
+		"arg" : "https://scripting.getdrafts.com/"
+	},
+	{
+		"title" : "GitHub - agiletortoise/drafts-script-reference",
+		"subtitle" : "URL = https://github.com/agiletortoise/drafts-script-reference",
+		"arg" : "https://github.com/agiletortoise/drafts-script-reference"
+	},
+	{
+		"title" : "Action",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/action",
+		"arg" : "https://scripting.getdrafts.com/classes/action"
+	},
+	{
+		"title" : "ActionGroup",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/actiongroup",
+		"arg" : "https://scripting.getdrafts.com/classes/actiongroup"
+	},
+	{
+		"title" : "Alarm",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/alarm",
+		"arg" : "https://scripting.getdrafts.com/classes/alarm"
+	},
+	{
+		"title" : "App",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/app",
+		"arg" : "https://scripting.getdrafts.com/classes/app"
+	},
+	{
+		"title" : "AppleScript",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/applescript",
+		"arg" : "https://scripting.getdrafts.com/classes/applescript"
+	},
+	{
+		"title" : "Base64",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/base64",
+		"arg" : "https://scripting.getdrafts.com/classes/base64"
+	},
+	{
+		"title" : "Box",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/box",
+		"arg" : "https://scripting.getdrafts.com/classes/box"
+	},
+	{
+		"title" : "Calendar",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/calendar",
+		"arg" : "https://scripting.getdrafts.com/classes/calendar"
+	},
+	{
+		"title" : "CallbackURL",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/callbackurl",
+		"arg" : "https://scripting.getdrafts.com/classes/callbackurl"
+	},
+	{
+		"title" : "Context",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/context",
+		"arg" : "https://scripting.getdrafts.com/classes/context"
+	},
+	{
+		"title" : "Credential",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/credential",
+		"arg" : "https://scripting.getdrafts.com/classes/credential"
+	},
+	{
+		"title" : "Device",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/device",
+		"arg" : "https://scripting.getdrafts.com/classes/device"
+	},
+	{
+		"title" : "Draft",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/draft",
+		"arg" : "https://scripting.getdrafts.com/classes/draft"
+	},
+	{
+		"title" : "Dropbox",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/dropbox",
+		"arg" : "https://scripting.getdrafts.com/classes/dropbox"
+	},
+	{
+		"title" : "Editor",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/editor",
+		"arg" : "https://scripting.getdrafts.com/classes/editor"
+	},
+	{
+		"title" : "Event",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/event",
+		"arg" : "https://scripting.getdrafts.com/classes/event"
+	},
+	{
+		"title" : "FileManager",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/filemanager",
+		"arg" : "https://scripting.getdrafts.com/classes/filemanager"
+	},
+	{
+		"title" : "GitHubMarkdown",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/githubmarkdown",
+		"arg" : "https://scripting.getdrafts.com/classes/githubmarkdown"
+	},
+	{
+		"title" : "GmailMessage",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/gmailmessage",
+		"arg" : "https://scripting.getdrafts.com/classes/gmailmessage"
+	},
+	{
+		"title" : "GoogleDrive",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/googledrive",
+		"arg" : "https://scripting.getdrafts.com/classes/googledrive"
+	},
+	{
+		"title" : "HTML",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/html",
+		"arg" : "https://scripting.getdrafts.com/classes/html"
+	},
+	{
+		"title" : "HTMLPreview",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/htmlpreview",
+		"arg" : "https://scripting.getdrafts.com/classes/htmlpreview"
+	},
+	{
+		"title" : "HTTP",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/http",
+		"arg" : "https://scripting.getdrafts.com/classes/http"
+	},
+	{
+		"title" : "HTTPResponse",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/httpresponse",
+		"arg" : "https://scripting.getdrafts.com/classes/httpresponse"
+	},
+	{
+		"title" : "Mail",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/mail",
+		"arg" : "https://scripting.getdrafts.com/classes/mail"
+	},
+	{
+		"title" : "Medium",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/medium",
+		"arg" : "https://scripting.getdrafts.com/classes/medium"
+	},
+	{
+		"title" : "Message",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/message",
+		"arg" : "https://scripting.getdrafts.com/classes/message"
+	},
+	{
+		"title" : "MultiMarkdown",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/multimarkdown",
+		"arg" : "https://scripting.getdrafts.com/classes/multimarkdown"
+	},
+	{
+		"title" : "MustacheTemplate",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/mustachetemplate",
+		"arg" : "https://scripting.getdrafts.com/classes/mustachetemplate"
+	},
+	{
+		"title" : "OneDrive",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/onedrive",
+		"arg" : "https://scripting.getdrafts.com/classes/onedrive"
+	},
+	{
+		"title" : "OutlookMessage",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/outlookmessage",
+		"arg" : "https://scripting.getdrafts.com/classes/outlookmessage"
+	},
+	{
+		"title" : "Prompt",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/prompt",
+		"arg" : "https://scripting.getdrafts.com/classes/prompt"
+	},
+	{
+		"title" : "QueryDate",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/querydate",
+		"arg" : "https://scripting.getdrafts.com/classes/querydate"
+	},
+	{
+		"title" : "Reminder",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/reminder",
+		"arg" : "https://scripting.getdrafts.com/classes/reminder"
+	},
+	{
+		"title" : "ReminderList",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/reminderlist",
+		"arg" : "https://scripting.getdrafts.com/classes/reminderlist"
+	},
+	{
+		"title" : "Script",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/script",
+		"arg" : "https://scripting.getdrafts.com/classes/script"
+	},
+	{
+		"title" : "Share",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/share",
+		"arg" : "https://scripting.getdrafts.com/classes/share"
+	},
+	{
+		"title" : "ShellScript",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/shellscript",
+		"arg" : "https://scripting.getdrafts.com/classes/shellscript"
+	},
+	{
+		"title" : "Syntax",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/syntax",
+		"arg" : "https://scripting.getdrafts.com/classes/syntax"
+	},
+	{
+		"title" : "TJSChecklistItem",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/tjschecklistitem",
+		"arg" : "https://scripting.getdrafts.com/classes/tjschecklistitem"
+	},
+	{
+		"title" : "https://scripting.getdrafts.com/classes/tjscontaine",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/tjscontaine",
+		"arg" : "https://scripting.getdrafts.com/classes/tjscontaine"
+	},
+	{
+		"title" : "TJSHeading",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/tjsheading",
+		"arg" : "https://scripting.getdrafts.com/classes/tjsheading"
+	},
+	{
+		"title" : "TJSProject",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/tjsproject",
+		"arg" : "https://scripting.getdrafts.com/classes/tjsproject"
+	},
+	{
+		"title" : "TJSTodo",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/tjstodo",
+		"arg" : "https://scripting.getdrafts.com/classes/tjstodo"
+	},
+	{
+		"title" : "Theme",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/theme",
+		"arg" : "https://scripting.getdrafts.com/classes/theme"
+	},
+	{
+		"title" : "Todoist",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/todoist",
+		"arg" : "https://scripting.getdrafts.com/classes/todoist"
+	},
+	{
+		"title" : "Twitter",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/twitter",
+		"arg" : "https://scripting.getdrafts.com/classes/twitter"
+	},
+	{
+		"title" : "Version",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/version",
+		"arg" : "https://scripting.getdrafts.com/classes/version"
+	},
+	{
+		"title" : "WordPress",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/wordpress",
+		"arg" : "https://scripting.getdrafts.com/classes/wordpress"
+	},
+	{
+		"title" : "Workspace",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/workspace",
+		"arg" : "https://scripting.getdrafts.com/classes/workspace"
+	},
+	{
+		"title" : "XMLRPC",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/xmlrpc",
+		"arg" : "https://scripting.getdrafts.com/classes/xmlrpc"
+	},
+	{
+		"title" : "XMLRPCResponse",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/xmlrpcresponse",
+		"arg" : "https://scripting.getdrafts.com/classes/xmlrpcresponse"
+	},
+	{
+		"title" : "DropboxRequestSettings",
+		"subtitle" : "URL = https://scripting.getdrafts.com/interfaces/dropboxrequestsettings",
+		"arg" : "https://scripting.getdrafts.com/interfaces/dropboxrequestsettings"
+	},
+	{
+		"title" : "Globals",
+		"subtitle" : "URL = https://scripting.getdrafts.com/globals",
+		"arg" : "https://scripting.getdrafts.com/globals"
+	},
+	{
+		"title" : "strftime Manual",
+		"subtitle" : "URL = https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/strftime.3.html",
+		"arg" : "https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/strftime.3.html"
+	}
+]}
