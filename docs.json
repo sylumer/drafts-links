@@ -349,5 +349,25 @@
 		"title" : "Action Wizards - Mail",
 		"subtitle" : "URL = https://tools.getdrafts.com/wizards/mail",
 		"arg" : "Action Wizards - Mail||https://tools.getdrafts.com/wizards/mail"
+	},
+	{
+		"title" : "Theme Builder",
+		"subtitle" : "URL = https://tools.getdrafts.com/themes/theme-builder",
+		"arg" : "Theme Builder||https://tools.getdrafts.com/themes/theme-builder"
+	},
+	{
+		"title" : "Drafts Beta Programme",
+		"subtitle" : "URL = https://docs.getdrafts.com/beta/",
+		"arg" : "Drafts Beta Programme||https://docs.getdrafts.com/beta/"
+	},
+	{
+		"title" : "Drafts Beta - Mac Change Log",
+		"subtitle" : "URL = https://docs.getdrafts.com/beta/changelog-mac",
+		"arg" : "Drafts Beta - Mac Change Log||https://docs.getdrafts.com/beta/changelog-mac"
+	},
+	{
+		"title" : "Drafts Beta - iOS Change Log",
+		"subtitle" : "URL = https://docs.getdrafts.com/beta/changelog-ios",
+		"arg" : "Drafts Beta - iOS Change Log||https://docs.getdrafts.com/beta/changelog-ios"
 	}
 ]}
