@@ -356,6 +356,11 @@
 		"arg" : "Theme Builder||https://tools.getdrafts.com/themes/theme-builder"
 	},
 	{
+		"title" : "Drafts Web Capture",
+		"subtitle" : "URL = https://capture.getdrafts.com",
+		"arg" : "Drafts Web Capture||https://capture.getdrafts.com"
+	},
+	{
 		"title" : "Drafts Beta Programme",
 		"subtitle" : "URL = https://docs.getdrafts.com/beta/",
 		"arg" : "Drafts Beta Programme||https://docs.getdrafts.com/beta/"
