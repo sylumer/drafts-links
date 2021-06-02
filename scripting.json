@@ -141,6 +141,11 @@
 		"arg" : "Mail||https://scripting.getdrafts.com/classes/mail"
 	},
 	{
+		"title" : "MicrosoftToDo",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/microsofttodo",
+		"arg" : "MicrosoftToDo||https://scripting.getdrafts.com/classes/microsofttodo"
+	},
+	{
 		"title" : "Medium",
 		"subtitle" : "URL = https://scripting.getdrafts.com/classes/medium",
 		"arg" : "Medium||https://scripting.getdrafts.com/classes/medium"
