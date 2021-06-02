@@ -111,6 +111,11 @@
 		"arg" : "GoogleDrive||https://scripting.getdrafts.com/classes/googledrive"
 	},
 	{
+		"title" : "GoogleTask",
+		"subtitle" : "URL = https://scripting.getdrafts.com/classes/googletask",
+		"arg" : "GoogleTask||https://scripting.getdrafts.com/classes/googletask"
+	},
+	{
 		"title" : "HTML",
 		"subtitle" : "URL = https://scripting.getdrafts.com/classes/html",
 		"arg" : "HTML||https://scripting.getdrafts.com/classes/html"
