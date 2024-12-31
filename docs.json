@@ -5,139 +5,39 @@
 		"arg" : "Home||https://docs.getdrafts.com/"
 	},
 	{
-		"title" : "Getting Started",
-		"subtitle" : "URL = https://docs.getdrafts.com/gettingstarted/",
-		"arg" : "Getting Started||https://docs.getdrafts.com/gettingstarted/"
-	},
-	{
-		"title" : "Screencasts",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/gettingstarted/screencasts",
-		"arg" : "Screencasts||https://docs.getdrafts.com/docs/gettingstarted/screencasts"
-	},
-	{
-		"title" : "Migrating from Drafts 4",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/gettingstarted/migration",
-		"arg" : "Migrating from Drafts 4||https://docs.getdrafts.com/docs/gettingstarted/migration"
-	},
-	{
-		"title" : "Editor",
-		"subtitle" : "URL = https://docs.getdrafts.com/editor/",
-		"arg" : "Editor||https://docs.getdrafts.com/editor/"
-	},
-	{
-		"title" : "New Drafts and Pinning",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/new-drafts-and-pinning",
-		"arg" : "New Drafts and Pinning||https://docs.getdrafts.com/docs/editor/new-drafts-and-pinning"
-	},
-	{
-		"title" : "Dictation",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/dictation",
-		"arg" : "Dictation||https://docs.getdrafts.com/docs/editor/dictation"
-	},
-	{
-		"title" : "Tasks",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/tasks",
-		"arg" : "Tasks||https://docs.getdrafts.com/docs/editor/tasks"
-	},
-	{
-		"title" : "Arrange Mode",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/arrangemode",
-		"arg" : "Arrange Mode||https://docs.getdrafts.com/docs/editor/arrangemode"
-	},
-	{
-		"title" : "Link Mode",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/linkmode",
-		"arg" : "Link Mode||https://docs.getdrafts.com/docs/editor/linkmode"
-	},
-	{
-		"title" : "Action Bar",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/action-bar",
-		"arg" : "Action Bar||https://docs.getdrafts.com/docs/editor/action-bar"
-	},
-	{
-		"title" : "Autocomplete",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/autocomplete",
-		"arg" : "Autocomplete||https://docs.getdrafts.com/docs/editor/autocomplete"
-	},
-	{
-		"title" : "Editor Settings",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/editorsettings",
-		"arg" : "Editor Settings||https://docs.getdrafts.com/docs/editor/editorsettings"
-	},
-	{
-		"title" : "Find and Replace",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/find",
-		"arg" : "Find and Replace||https://docs.getdrafts.com/docs/editor/find"
-	},
-	{
-		"title" : "Navigation",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/navigation",
-		"arg" : "Navigation||https://docs.getdrafts.com/docs/editor/navigation"
-	},
-	{
-		"title" : "Scanning and Live Text",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/document-scanning",
-		"arg" : "Scanning and Live Text||https://docs.getdrafts.com/docs/editor/document-scanning"
-	},
-	{
-		"title" : "Transcribing Audio & Video",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/transcription",
-		"arg" : "Transcribing Audio & Video||https://docs.getdrafts.com/docs/editor/transcription"
-	},
-	{
-		"title" : "Previews",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/previews",
-		"arg" : "Previews||https://docs.getdrafts.com/docs/editor/previews"
-	},
-	{
-		"title" : "Managing Drafts",
-		"subtitle" : "URL = https://docs.getdrafts.com/drafts/",
-		"arg" : "Managing Drafts||https://docs.getdrafts.com/drafts/"
-	},
-	{
-		"title" : "Flags & Tagging",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/tagging",
-		"arg" : "Flags & Tagging||https://docs.getdrafts.com/docs/drafts/tagging"
-	},
-	{
-		"title" : "Quick Search",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/quick-search",
-		"arg" : "Quick Search||https://docs.getdrafts.com/docs/drafts/quick-search"
-	},
-	{
-		"title" : "Search & Filtering",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/filtering",
-		"arg" : "Search & Filtering||https://docs.getdrafts.com/docs/drafts/filtering"
-	},
-	{
-		"title" : "List Options",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/listoptions",
-		"arg" : "List Options||https://docs.getdrafts.com/docs/drafts/listoptions"
-	},
-	{
-		"title" : "Workspaces",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/workspaces",
-		"arg" : "Workspaces||https://docs.getdrafts.com/docs/drafts/workspaces"
-	},
-	{
-		"title" : "Version History",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/versionhistory",
-		"arg" : "Version History||https://docs.getdrafts.com/docs/drafts/versionhistory"
-	},
-	{
-		"title" : "Linking Drafts",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/cross-linking",
-		"arg" : "Linking Drafts||https://docs.getdrafts.com/docs/drafts/cross-linking"
-	},
-	{
 		"title" : "Actions",
 		"subtitle" : "URL = https://docs.getdrafts.com/actions/",
 		"arg" : "Actions||https://docs.getdrafts.com/actions/"
 	},
 	{
-		"title" : "Configuring Actions",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/editing-actions",
-		"arg" : "Configuring Actions||https://docs.getdrafts.com/docs/actions/editing-actions"
+		"title" : "Action Steps",
+		"subtitle" : "URL = https://docs.getdrafts.com/actions/steps/",
+		"arg" : "Action Steps||https://docs.getdrafts.com/actions/steps/"
+	},
+	{
+		"title" : "Automation",
+		"subtitle" : "URL = https://docs.getdrafts.com/automation/",
+		"arg" : "Automation||https://docs.getdrafts.com/automation/"
+	},
+	{
+		"title" : "Release Notes",
+		"subtitle" : "URL = https://docs.getdrafts.com/changelog/",
+		"arg" : "Release Notes||https://docs.getdrafts.com/changelog/"
+	},
+	{
+		"title" : "iOS Release Notes Archive (pre-v27)",
+		"subtitle" : "URL = https://docs.getdrafts.com/changelog/changelog-ios",
+		"arg" : "iOS Release Notes Archive (pre-v27)||https://docs.getdrafts.com/changelog/changelog-ios"
+	},
+	{
+		"title" : "Mac Release Notes Archive (pre-v27)",
+		"subtitle" : "URL = https://docs.getdrafts.com/changelog/changelog-mac",
+		"arg" : "Mac Release Notes Archive (pre-v27)||https://docs.getdrafts.com/changelog/changelog-mac"
+	},
+	{
+		"title" : "Linking Drafts",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs//drafts/cross-linking",
+		"arg" : "Linking Drafts||https://docs.getdrafts.com/docs//drafts/cross-linking"
 	},
 	{
 		"title" : "Action Groups",
@@ -150,29 +50,29 @@
 		"arg" : "Action Log||https://docs.getdrafts.com/docs/actions/action-log"
 	},
 	{
-		"title" : "Action Versions",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/versions",
-		"arg" : "Action Versions||https://docs.getdrafts.com/docs/actions/versions"
+		"title" : "Artificial Intelligence",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/ai",
+		"arg" : "Artificial Intelligence||https://docs.getdrafts.com/docs/actions/ai"
 	},
 	{
-		"title" : "Action Steps",
-		"subtitle" : "URL = https://docs.getdrafts.com/actions/steps/",
-		"arg" : "Action Steps||https://docs.getdrafts.com/actions/steps/"
+		"title" : "Configuring Actions",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/editing-actions",
+		"arg" : "Configuring Actions||https://docs.getdrafts.com/docs/actions/editing-actions"
 	},
 	{
-		"title" : "System",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/system",
-		"arg" : "System||https://docs.getdrafts.com/docs/actions/steps/system"
+		"title" : "Advanced HTML Previews",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/html-forms",
+		"arg" : "Advanced HTML Previews||https://docs.getdrafts.com/docs/actions/html-forms"
 	},
 	{
-		"title" : "Services",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/services",
-		"arg" : "Services||https://docs.getdrafts.com/docs/actions/steps/services"
+		"title" : "Cross-Platform Notes",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/platform-notes",
+		"arg" : "Cross-Platform Notes||https://docs.getdrafts.com/docs/actions/platform-notes"
 	},
 	{
-		"title" : "Utility",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/utility",
-		"arg" : "Utility||https://docs.getdrafts.com/docs/actions/steps/utility"
+		"title" : "Scripting",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/scripting",
+		"arg" : "Scripting||https://docs.getdrafts.com/docs/actions/scripting"
 	},
 	{
 		"title" : "Advanced",
@@ -180,9 +80,19 @@
 		"arg" : "Advanced||https://docs.getdrafts.com/docs/actions/steps/advanced"
 	},
 	{
-		"title" : "Scripting",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/scripting",
-		"arg" : "Scripting||https://docs.getdrafts.com/docs/actions/scripting"
+		"title" : "Services",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/services",
+		"arg" : "Services||https://docs.getdrafts.com/docs/actions/steps/services"
+	},
+	{
+		"title" : "System",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/system",
+		"arg" : "System||https://docs.getdrafts.com/docs/actions/steps/system"
+	},
+	{
+		"title" : "Utility",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/steps/utility",
+		"arg" : "Utility||https://docs.getdrafts.com/docs/actions/steps/utility"
 	},
 	{
 		"title" : "Templates",
@@ -200,24 +110,14 @@
 		"arg" : "Mustache Templates||https://docs.getdrafts.com/docs/actions/templates/mustache"
 	},
 	{
-		"title" : "Cross-Platform Notes",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/platform-notes",
-		"arg" : "Cross-Platform Notes||https://docs.getdrafts.com/docs/actions/platform-notes"
+		"title" : "Action Versions",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/versions",
+		"arg" : "Action Versions||https://docs.getdrafts.com/docs/actions/versions"
 	},
 	{
-		"title" : "Advanced HTML Previews",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/actions/html-forms",
-		"arg" : "Advanced HTML Previews||https://docs.getdrafts.com/docs/actions/html-forms"
-	},
-	{
-		"title" : "Drafts Directory",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/directory",
-		"arg" : "Drafts Directory||https://docs.getdrafts.com/docs/extending/directory"
-	},
-	{
-		"title" : "Automation",
-		"subtitle" : "URL = https://docs.getdrafts.com/automation/",
-		"arg" : "Automation||https://docs.getdrafts.com/automation/"
+		"title" : "AppleScript",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/automation/applescript",
+		"arg" : "AppleScript||https://docs.getdrafts.com/docs/automation/applescript"
 	},
 	{
 		"title" : "Shortcuts",
@@ -230,109 +130,114 @@
 		"arg" : "URL Schemes||https://docs.getdrafts.com/docs/automation/urlschemes"
 	},
 	{
-		"title" : "AppleScript",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/automation/applescript",
-		"arg" : "AppleScript||https://docs.getdrafts.com/docs/automation/applescript"
+		"title" : "Command Palette",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/command-palette",
+		"arg" : "Command Palette||https://docs.getdrafts.com/docs/drafts/command-palette"
 	},
 	{
-		"title" : "Settings",
-		"subtitle" : "URL = https://docs.getdrafts.com/settings/",
-		"arg" : "Settings||https://docs.getdrafts.com/settings/"
+		"title" : "Linking Drafts",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/cross-linking",
+		"arg" : "Linking Drafts||https://docs.getdrafts.com/docs/drafts/cross-linking"
 	},
 	{
-		"title" : "iCloud Sync",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/sync",
-		"arg" : "iCloud Sync||https://docs.getdrafts.com/docs/settings/sync"
+		"title" : "Search & Filtering",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/filtering",
+		"arg" : "Search & Filtering||https://docs.getdrafts.com/docs/drafts/filtering"
 	},
 	{
-		"title" : "Backups",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/backups",
-		"arg" : "Backups||https://docs.getdrafts.com/docs/settings/backups"
+		"title" : "List Options",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/listoptions",
+		"arg" : "List Options||https://docs.getdrafts.com/docs/drafts/listoptions"
 	},
 	{
-		"title" : "App Badge",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/notifications",
-		"arg" : "App Badge||https://docs.getdrafts.com/docs/settings/notifications"
+		"title" : "Quick Search",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/quick-search",
+		"arg" : "Quick Search||https://docs.getdrafts.com/docs/drafts/quick-search"
 	},
 	{
-		"title" : "Credentials",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/credentials",
-		"arg" : "Credentials||https://docs.getdrafts.com/docs/settings/credentials"
+		"title" : "Flags & Tagging",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/tagging",
+		"arg" : "Flags & Tagging||https://docs.getdrafts.com/docs/drafts/tagging"
 	},
 	{
-		"title" : "Bookmarks",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/bookmarks",
-		"arg" : "Bookmarks||https://docs.getdrafts.com/docs/settings/bookmarks"
+		"title" : "Version History",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/versionhistory",
+		"arg" : "Version History||https://docs.getdrafts.com/docs/drafts/versionhistory"
 	},
 	{
-		"title" : "Markdown Settings",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/markdown",
-		"arg" : "Markdown Settings||https://docs.getdrafts.com/docs/settings/markdown"
+		"title" : "Workspaces",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/drafts/workspaces",
+		"arg" : "Workspaces||https://docs.getdrafts.com/docs/drafts/workspaces"
 	},
 	{
-		"title" : "Automatic Import",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/automatic-import",
-		"arg" : "Automatic Import||https://docs.getdrafts.com/docs/settings/automatic-import"
+		"title" : "Action Bar",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/action-bar",
+		"arg" : "Action Bar||https://docs.getdrafts.com/docs/editor/action-bar"
 	},
 	{
-		"title" : "Maintenance Tasks",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/maintenance",
-		"arg" : "Maintenance Tasks||https://docs.getdrafts.com/docs/settings/maintenance"
+		"title" : "Arrange Mode",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/arrangemode",
+		"arg" : "Arrange Mode||https://docs.getdrafts.com/docs/editor/arrangemode"
 	},
 	{
-		"title" : "Extensions",
-		"subtitle" : "URL = https://docs.getdrafts.com/extensions/",
-		"arg" : "Extensions||https://docs.getdrafts.com/extensions/"
+		"title" : "Autocomplete",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/autocomplete",
+		"arg" : "Autocomplete||https://docs.getdrafts.com/docs/editor/autocomplete"
 	},
 	{
-		"title" : "Apple Watch",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/applewatch",
-		"arg" : "Apple Watch||https://docs.getdrafts.com/docs/extensions/applewatch"
+		"title" : "Dictation",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/dictation",
+		"arg" : "Dictation||https://docs.getdrafts.com/docs/editor/dictation"
 	},
 	{
-		"title" : "Drafts Web Capture",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/web-capture",
-		"arg" : "Drafts Web Capture||https://docs.getdrafts.com/docs/extensions/web-capture"
+		"title" : "Scanning and Live Text",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/document-scanning",
+		"arg" : "Scanning and Live Text||https://docs.getdrafts.com/docs/editor/document-scanning"
 	},
 	{
-		"title" : "Widgets",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/widgets",
-		"arg" : "Widgets||https://docs.getdrafts.com/docs/extensions/widgets"
+		"title" : "Editor Settings",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/editorsettings",
+		"arg" : "Editor Settings||https://docs.getdrafts.com/docs/editor/editorsettings"
 	},
 	{
-		"title" : "iOS Share and Capture",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/share",
-		"arg" : "iOS Share and Capture||https://docs.getdrafts.com/docs/extensions/share"
+		"title" : "Find and Replace",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/find",
+		"arg" : "Find and Replace||https://docs.getdrafts.com/docs/editor/find"
 	},
 	{
-		"title" : "Mac Share and Capture",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/capture-window",
-		"arg" : "Mac Share and Capture||https://docs.getdrafts.com/docs/extensions/capture-window"
+		"title" : "Link Mode",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/linkmode",
+		"arg" : "Link Mode||https://docs.getdrafts.com/docs/editor/linkmode"
 	},
 	{
-		"title" : "iMessage App",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/message",
-		"arg" : "iMessage App||https://docs.getdrafts.com/docs/extensions/message"
+		"title" : "Navigation",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/navigation",
+		"arg" : "Navigation||https://docs.getdrafts.com/docs/editor/navigation"
 	},
 	{
-		"title" : "Syntaxes & Themes",
-		"subtitle" : "URL = https://docs.getdrafts.com/extending/",
-		"arg" : "Syntaxes & Themes||https://docs.getdrafts.com/extending/"
+		"title" : "New Drafts and Pinning",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/new-drafts-and-pinning",
+		"arg" : "New Drafts and Pinning||https://docs.getdrafts.com/docs/editor/new-drafts-and-pinning"
 	},
 	{
-		"title" : "Syntaxes",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/syntaxes",
-		"arg" : "Syntaxes||https://docs.getdrafts.com/docs/extending/syntaxes"
+		"title" : "Previews",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/previews",
+		"arg" : "Previews||https://docs.getdrafts.com/docs/editor/previews"
 	},
 	{
-		"title" : "Themes",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/themes",
-		"arg" : "Themes||https://docs.getdrafts.com/docs/extending/themes"
+		"title" : "Tasks",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/tasks",
+		"arg" : "Tasks||https://docs.getdrafts.com/docs/editor/tasks"
 	},
 	{
-		"title" : "Developing",
-		"subtitle" : "URL = https://docs.getdrafts.com/extending/development",
-		"arg" : "Developing||https://docs.getdrafts.com/extending/development"
+		"title" : "Text-to-Speech",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/text-to-speech",
+		"arg" : "Text-to-Speech||https://docs.getdrafts.com/docs/editor/text-to-speech"
+	},
+	{
+		"title" : "Transcribing Audio & Video",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/editor/transcription",
+		"arg" : "Transcribing Audio & Video||https://docs.getdrafts.com/docs/editor/transcription"
 	},
 	{
 		"title" : "Creating Syntaxes",
@@ -345,19 +250,64 @@
 		"arg" : "Creating Themes||https://docs.getdrafts.com/docs/extending/development/theme-format"
 	},
 	{
-		"title" : "Miscellaneous",
-		"subtitle" : "URL = https://docs.getdrafts.com/misc/",
-		"arg" : "Miscellaneous||https://docs.getdrafts.com/misc/"
+		"title" : "Drafts Directory",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/directory",
+		"arg" : "Drafts Directory||https://docs.getdrafts.com/docs/extending/directory"
 	},
 	{
-		"title" : "Interact Scratchpad",
-		"subtitle" : "URL = https://docs.getdrafts.com/docs/misc/interact-scratchpad",
-		"arg" : "Interact Scratchpad||https://docs.getdrafts.com/docs/misc/interact-scratchpad"
+		"title" : "Syntaxes",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/syntaxes",
+		"arg" : "Syntaxes||https://docs.getdrafts.com/docs/extending/syntaxes"
 	},
 	{
-		"title" : "Mail Assistant",
-		"subtitle" : "URL = https://docs.getdrafts.com/misc/mail-assistant",
-		"arg" : "Mail Assistant||https://docs.getdrafts.com/misc/mail-assistant"
+		"title" : "Themes",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extending/themes",
+		"arg" : "Themes||https://docs.getdrafts.com/docs/extending/themes"
+	},
+	{
+		"title" : "Apple Watch",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/applewatch",
+		"arg" : "Apple Watch||https://docs.getdrafts.com/docs/extensions/applewatch"
+	},
+	{
+		"title" : "Mac Share and Capture",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/capture-window",
+		"arg" : "Mac Share and Capture||https://docs.getdrafts.com/docs/extensions/capture-window"
+	},
+	{
+		"title" : "Mail Drop",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/maildrop",
+		"arg" : "Mail Drop||https://docs.getdrafts.com/docs/extensions/maildrop"
+	},
+	{
+		"title" : "iMessage App",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/message",
+		"arg" : "iMessage App||https://docs.getdrafts.com/docs/extensions/message"
+	},
+	{
+		"title" : "iOS Share and Capture",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/share",
+		"arg" : "iOS Share and Capture||https://docs.getdrafts.com/docs/extensions/share"
+	},
+	{
+		"title" : "Drafts Web Capture",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/web-capture",
+		"arg" : "Drafts Web Capture||https://docs.getdrafts.com/docs/extensions/web-capture"
+	},
+	{
+		"title" : "Widgets",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/extensions/widgets",
+		"arg" : "Widgets||https://docs.getdrafts.com/docs/extensions/widgets"
+	},
+	{
+		"title" : "Migrating from Drafts 4",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/gettingstarted/migration",
+		"arg" : "Migrating from Drafts 4||https://docs.getdrafts.com/docs/gettingstarted/migration"
+	},
+	{
+		"title" : "Screencasts",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/gettingstarted/screencasts",
+		"arg" : "Screencasts||https://docs.getdrafts.com/docs/gettingstarted/screencasts"
 	},
 	{
 		"title" : "Attributions",
@@ -365,9 +315,59 @@
 		"arg" : "Attributions||https://docs.getdrafts.com/docs/misc/attributions"
 	},
 	{
-		"title" : "Release Notes",
-		"subtitle" : "URL = https://docs.getdrafts.com/changelog/",
-		"arg" : "Release Notes||https://docs.getdrafts.com/changelog/"
+		"title" : "Interact Scratchpad",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/misc/interact-scratchpad",
+		"arg" : "Interact Scratchpad||https://docs.getdrafts.com/docs/misc/interact-scratchpad"
+	},
+	{
+		"title" : "Automatic Import",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/automatic-import",
+		"arg" : "Automatic Import||https://docs.getdrafts.com/docs/settings/automatic-import"
+	},
+	{
+		"title" : "Backups",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/backups",
+		"arg" : "Backups||https://docs.getdrafts.com/docs/settings/backups"
+	},
+	{
+		"title" : "Bookmarks",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/bookmarks",
+		"arg" : "Bookmarks||https://docs.getdrafts.com/docs/settings/bookmarks"
+	},
+	{
+		"title" : "Credentials",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/credentials",
+		"arg" : "Credentials||https://docs.getdrafts.com/docs/settings/credentials"
+	},
+	{
+		"title" : "HTML To Markdown",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/htmltomarkdown",
+		"arg" : "HTML To Markdown||https://docs.getdrafts.com/docs/settings/htmltomarkdown"
+	},
+	{
+		"title" : "Maintenance Tasks",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/maintenance",
+		"arg" : "Maintenance Tasks||https://docs.getdrafts.com/docs/settings/maintenance"
+	},
+	{
+		"title" : "Markdown Settings",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/markdown",
+		"arg" : "Markdown Settings||https://docs.getdrafts.com/docs/settings/markdown"
+	},
+	{
+		"title" : "App Badge",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/notifications",
+		"arg" : "App Badge||https://docs.getdrafts.com/docs/settings/notifications"
+	},
+	{
+		"title" : "iCloud Sync",
+		"subtitle" : "URL = https://docs.getdrafts.com/docs/settings/sync",
+		"arg" : "iCloud Sync||https://docs.getdrafts.com/docs/settings/sync"
+	},
+	{
+		"title" : "Managing Drafts",
+		"subtitle" : "URL = https://docs.getdrafts.com/drafts/",
+		"arg" : "Managing Drafts||https://docs.getdrafts.com/drafts/"
 	},
 	{
 		"title" : "Drafts Pro",
@@ -375,18 +375,73 @@
 		"arg" : "Drafts Pro||https://docs.getdrafts.com/draftspro"
 	},
 	{
+		"title" : "Editor",
+		"subtitle" : "URL = https://docs.getdrafts.com/editor/",
+		"arg" : "Editor||https://docs.getdrafts.com/editor/"
+	},
+	{
+		"title" : "Syntaxes & Themes",
+		"subtitle" : "URL = https://docs.getdrafts.com/extending/",
+		"arg" : "Syntaxes & Themes||https://docs.getdrafts.com/extending/"
+	},
+	{
+		"title" : "Developing",
+		"subtitle" : "URL = https://docs.getdrafts.com/extending/development",
+		"arg" : "Developing||https://docs.getdrafts.com/extending/development"
+	},
+	{
+		"title" : "Extensions",
+		"subtitle" : "URL = https://docs.getdrafts.com/extensions/",
+		"arg" : "Extensions||https://docs.getdrafts.com/extensions/"
+	},
+	{
+		"title" : "Getting Started",
+		"subtitle" : "URL = https://docs.getdrafts.com/gettingstarted/",
+		"arg" : "Getting Started||https://docs.getdrafts.com/gettingstarted/"
+	},
+	{
+		"title" : "Miscellaneous",
+		"subtitle" : "URL = https://docs.getdrafts.com/misc/",
+		"arg" : "Miscellaneous||https://docs.getdrafts.com/misc/"
+	},
+	{
+		"title" : "Mail Assistant",
+		"subtitle" : "URL = https://docs.getdrafts.com/misc/mail-assistant",
+		"arg" : "Mail Assistant||https://docs.getdrafts.com/misc/mail-assistant"
+	},
+	{
 		"title" : "Press Kit",
 		"subtitle" : "URL = https://docs.getdrafts.com/press-kit",
 		"arg" : "Press Kit||https://docs.getdrafts.com/press-kit"
 	},
 	{
-		"title" : "iOS Release Notes Archive (pre-v27)",
-		"subtitle" : "URL = https://docs.getdrafts.com/changelog/changelog-ios",
-		"arg" : "iOS Release Notes Archive (pre-v27)||https://docs.getdrafts.com/changelog/changelog-ios"
+		"title" : "Settings",
+		"subtitle" : "URL = https://docs.getdrafts.com/settings/",
+		"arg" : "Settings||https://docs.getdrafts.com/settings/"
 	},
 	{
-		"title" : "Mac Release Notes Archive (pre-v27)",
-		"subtitle" : "URL = https://docs.getdrafts.com/changelog/changelog-mac",
-		"arg" : "Mac Release Notes Archive (pre-v27)||https://docs.getdrafts.com/changelog/changelog-mac"
+		"title" : "Tools",
+		"subtitle" : "URL = https://tools.getdrafts.com/",
+		"arg" : "Tools||https://tools.getdrafts.com/"
+	},
+	{
+		"title" : "Theme Builder",
+		"subtitle" : "URL = https://tools.getdrafts.com/themes/theme-builder",
+		"arg" : "Theme Builder||https://tools.getdrafts.com/themes/theme-builder"
+	},
+	{
+		"title" : "Action Wizards",
+		"subtitle" : "URL = https://tools.getdrafts.com/wizards/",
+		"arg" : "Action Wizards||https://tools.getdrafts.com/wizards/"
+	},
+	{
+		"title" : "Mail",
+		"subtitle" : "URL = https://tools.getdrafts.com/wizards/mail",
+		"arg" : "Mail||https://tools.getdrafts.com/wizards/mail"
+	},
+	{
+		"title" : "Messages",
+		"subtitle" : "URL = https://tools.getdrafts.com/wizards/message",
+		"arg" : "Messages||https://tools.getdrafts.com/wizards/message"
 	}
 ]}
