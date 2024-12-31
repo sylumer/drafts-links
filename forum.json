@@ -59,5 +59,10 @@
 		"title" : "Latest Site Feedback topics",
 		"subtitle" : "URL = https://forums.getdrafts.com/c/site-feedback/3",
 		"arg" : "Latest Site Feedback topics||https://forums.getdrafts.com/c/site-feedback/3"
+	},
+	{
+		"title" : "Testflighht Beta",
+		"subtitle" : "URL = https://forums.getdrafts.com/c/beta/18",
+		"arg" : "Testflight Beta||https://forums.getdrafts.com/c/beta/18"
 	}
 ]}
