@@ -2,8 +2,8 @@
 
 	{
 		"title" : "Drafts Script Reference (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/",
-		"arg" : "Drafts Script Reference||https://scripting.getdrafts.com/"
+		"subtitle" : "URL = https://beta-scripting.getdrafts.com/",
+		"arg" : "Drafts Script Reference||https://beta-scripting.getdrafts.com/"
 	},
 	{
 		"title" : "GitHub - agiletortoise/drafts-script-reference (β)",
@@ -11,447 +11,527 @@
 		"arg" : "GitHub - agiletortoise/drafts-script-reference||https://github.com/agiletortoise/drafts-script-reference"
 	},
 	{
-		"title" : "Action (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Action",
-		"arg" : "Action||https://scripting.getdrafts.com/classes/Action"
+		"title": "Modules (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/modules.html",
+		"arg": "Modules||https://beta-scripting.getdrafts.com/modules.html"
 	},
 	{
-		"title" : "ActionGroup (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/ActionGroup",
-		"arg" : "ActionGroup||https://scripting.getdrafts.com/classes/ActionGroup"
+		"title": "adjustDate | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/functions/adjustDate.html",
+		"arg": "adjustDate | Drafts Script Reference||https://beta-scripting.getdrafts.com/functions/adjustDate.html"
 	},
 	{
-		"title" : "ActionLog (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/ActionLog",
-		"arg" : "ActionGroup||https://scripting.getdrafts.com/classes/ActionLog"
+		"title": "strftime | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/functions/strftime.html",
+		"arg": "strftime | Drafts Script Reference||https://beta-scripting.getdrafts.com/functions/strftime.html"
 	},
 	{
-		"title" : "Alarm (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Alarm",
-		"arg" : "Alarm||https://scripting.getdrafts.com/classes/Alarm"
+		"title": "Action | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Action.html",
+		"arg": "Action | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Action.html"
 	},
 	{
-		"title" : "App (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/App",
-		"arg" : "App||https://scripting.getdrafts.com/classes/App"
+		"title": "App | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/App.html",
+		"arg": "App | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/App.html"
 	},
 	{
-		"title" : "AppleScript (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/AppleScript",
-		"arg" : "AppleScript||https://scripting.getdrafts.com/classes/AppleScript"
+		"title": "clipboardType | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/clipboardType.html",
+		"arg": "clipboardType | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/clipboardType.html"
 	},
 	{
-		"title" : "Autocomplete (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Autocomplete",
-		"arg" : "Autocomplete||https://scripting.getdrafts.com/classes/Autocomplete"
+		"title": "ActionGroup | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/ActionGroup.html",
+		"arg": "ActionGroup | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/ActionGroup.html"
 	},
 	{
-		"title" : "Base64 (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Base64",
-		"arg" : "Base64||https://scripting.getdrafts.com/classes/Base64"
+		"title": "Draft | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Draft.html",
+		"arg": "Draft | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Draft.html"
 	},
 	{
-		"title" : "Bookmark (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Bookmark",
-		"arg" : "Bookmark||https://scripting.getdrafts.com/classes/Bookmark"
+		"title": "ActionLog | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/ActionLog.html",
+		"arg": "ActionLog | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/ActionLog.html"
 	},
 	{
-		"title" : "Box (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Box",
-		"arg" : "Box||https://scripting.getdrafts.com/classes/Box"
+		"title": "linkedItem | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/linkedItem.html",
+		"arg": "linkedItem | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/linkedItem.html"
 	},
 	{
-		"title" : "Calendar (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Calendar",
-		"arg" : "Calendar||https://scripting.getdrafts.com/classes/Calendar"
+		"title": "Editor | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Editor.html",
+		"arg": "Editor | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Editor.html"
 	},
 	{
-		"title" : "CallbackURL (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/CallbackURL",
-		"arg" : "CallbackURL||https://scripting.getdrafts.com/classes/CallbackURL"
+		"title": "navigationMarker | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/navigationMarker.html",
+		"arg": "navigationMarker | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/navigationMarker.html"
 	},
 	{
-		"title" : "Context (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Context",
-		"arg" : "Context||https://scripting.getdrafts.com/classes/Context"
+		"title": "textRange | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/textRange.html",
+		"arg": "textRange | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/textRange.html"
 	},
 	{
-		"title" : "Credential (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Credential",
-		"arg" : "Credential||https://scripting.getdrafts.com/classes/Credential"
+		"title": "Task | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Task.html",
+		"arg": "Task | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Task.html"
 	},
 	{
-		"title" : "Device (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Device",
-		"arg" : "Device||https://scripting.getdrafts.com/classes/Device"
+		"title": "Syntax | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Syntax.html",
+		"arg": "Syntax | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Syntax.html"
 	},
 	{
-		"title" : "Draft (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Draft",
-		"arg" : "Draft||https://scripting.getdrafts.com/classes/Draft"
+		"title": "syntaxType | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/syntaxType.html",
+		"arg": "syntaxType | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/syntaxType.html"
 	},
 	{
-		"title" : "Dropbox (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Dropbox",
-		"arg" : "Dropbox||https://scripting.getdrafts.com/classes/Dropbox"
+		"title": "sortBy | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/sortBy.html",
+		"arg": "sortBy | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/sortBy.html"
 	},
 	{
-		"title" : "Editor (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Editor",
-		"arg" : "Editor||https://scripting.getdrafts.com/classes/Editor"
+		"title": "Version | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Version.html",
+		"arg": "Version | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Version.html"
 	},
 	{
-		"title" : "Event (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Event",
-		"arg" : "Event||https://scripting.getdrafts.com/classes/Event"
+		"title": "Window | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Window.html",
+		"arg": "Window | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Window.html"
 	},
 	{
-		"title" : "FileManager (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/FileManager",
-		"arg" : "FileManager||https://scripting.getdrafts.com/classes/FileManager"
+		"title": "Workspace | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Workspace.html",
+		"arg": "Workspace | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Workspace.html"
 	},
 	{
-		"title" : "GitHubMarkdown (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/GitHubMarkdown",
-		"arg" : "GitHubMarkdown||https://scripting.getdrafts.com/classes/GitHubMarkdown"
+		"title": "draftFolderTab | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/draftFolderTab.html",
+		"arg": "draftFolderTab | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/draftFolderTab.html"
 	},
 	{
-		"title" : "GmailMessage (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/GmailMessage",
-		"arg" : "GmailMessage||https://scripting.getdrafts.com/classes/GmailMessage"
+		"title": "Theme | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Theme.html",
+		"arg": "Theme | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Theme.html"
 	},
 	{
-		"title" : "GoogleDrive (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/GoogleDrive",
-		"arg" : "GoogleDrive||https://scripting.getdrafts.com/classes/GoogleDrive"
+		"title": "themeType | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/themeType.html",
+		"arg": "themeType | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/themeType.html"
 	},
 	{
-		"title" : "GoogleTask (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/GoogleTask",
-		"arg" : "GoogleTask||https://scripting.getdrafts.com/classes/GoogleTask"
+		"title": "QueryDate | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/QueryDate.html",
+		"arg": "QueryDate | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/QueryDate.html"
 	},
 	{
-		"title" : "HTML (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/HTML",
-		"arg" : "HTML||https://scripting.getdrafts.com/classes/HTML"
+		"title": "queryDateField | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/queryDateField.html",
+		"arg": "queryDateField | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/queryDateField.html"
 	},
 	{
-		"title" : "HTMLPreview (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/HTMLPreview",
-		"arg" : "HTMLPreview||https://scripting.getdrafts.com/classes/HTMLPreview"
+		"title": "queryDateType | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/queryDateType.html",
+		"arg": "queryDateType | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/queryDateType.html"
 	},
 	{
-		"title" : "HTTP (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/HTTP",
-		"arg" : "HTTP||https://scripting.getdrafts.com/classes/HTTP"
+		"title": "flagStatus | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/flagStatus.html",
+		"arg": "flagStatus | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/flagStatus.html"
 	},
 	{
-		"title" : "HTTPResponse (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/HTTPResponse",
-		"arg" : "HTTPResponse||https://scripting.getdrafts.com/classes/HTTPResponse"
+		"title": "Airtable | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Airtable.html",
+		"arg": "Airtable | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Airtable.html"
 	},
 	{
-		"title" : "Mail (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Mail",
-		"arg" : "Mail||https://scripting.getdrafts.com/classes/Mail"
+		"title": "HTTPResponse | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/HTTPResponse.html",
+		"arg": "HTTPResponse | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/HTTPResponse.html"
 	},
 	{
-		"title" : "Medium (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Medium",
-		"arg" : "Medium||https://scripting.getdrafts.com/classes/Medium"
+		"title": "HTTP | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/HTTP.html",
+		"arg": "HTTP | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/HTTP.html"
 	},
 	{
-		"title" : "Message (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Message",
-		"arg" : "Message||https://scripting.getdrafts.com/classes/Message"
+		"title": "Alarm | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Alarm.html",
+		"arg": "Alarm | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Alarm.html"
 	},
 	{
-		"title" : "MicrosoftToDo (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/MicrosoftToDo",
-		"arg" : "MicrosoftToDo||https://scripting.getdrafts.com/classes/MicrosoftToDo"
+		"title": "Reminder | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Reminder.html",
+		"arg": "Reminder | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Reminder.html"
 	},
 	{
-		"title" : "MultiMarkdown (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Multimarkdown",
-		"arg" : "MultiMarkdown||https://scripting.getdrafts.com/classes/Multimarkdown"
+		"title": "ReminderList | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/ReminderList.html",
+		"arg": "ReminderList | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/ReminderList.html"
 	},
 	{
-		"title" : "MustacheTemplate (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/MustacheTemplate",
-		"arg" : "MustacheTemplate||https://scripting.getdrafts.com/classes/MustacheTemplate"
+		"title": "Event | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Event.html",
+		"arg": "Event | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Event.html"
 	},
 	{
-		"title" : "Notion (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Notion",
-		"arg" : "Notion||https://scripting.getdrafts.com/classes/Notion"
+		"title": "Calendar | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Calendar.html",
+		"arg": "Calendar | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Calendar.html"
 	},
 	{
-		"title" : "OneDrive (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/OneDrive",
-		"arg" : "OneDrive||https://scripting.getdrafts.com/classes/OneDrive"
+		"title": "AnthropicAI | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/AnthropicAI.html",
+		"arg": "AnthropicAI | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/AnthropicAI.html"
 	},
 	{
-		"title" : "OutlookMessage (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/OutlookMessage",
-		"arg" : "OutlookMessage||https://scripting.getdrafts.com/classes/OutlookMessage"
+		"title": "OpenAI | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/OpenAI.html",
+		"arg": "OpenAI | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/OpenAI.html"
 	},
 	{
-		"title" : "Prompt (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Prompt",
-		"arg" : "Prompt||https://scripting.getdrafts.com/classes/Prompt"
+		"title": "AppleScript | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/AppleScript.html",
+		"arg": "AppleScript | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/AppleScript.html"
 	},
 	{
-		"title" : "QueryDate (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/QueryDate",
-		"arg" : "QueryDate||https://scripting.getdrafts.com/classes/QueryDate"
+		"title": "Autocomplete | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Autocomplete.html",
+		"arg": "Autocomplete | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Autocomplete.html"
 	},
 	{
-		"title" : "Reminder (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Reminder",
-		"arg" : "Reminder||https://scripting.getdrafts.com/classes/Reminder"
+		"title": "Base64 | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Base64.html",
+		"arg": "Base64 | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Base64.html"
 	},
 	{
-		"title" : "ReminderList (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/ReminderList",
-		"arg" : "ReminderList||https://scripting.getdrafts.com/classes/ReminderList"
+		"title": "Bookmark | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Bookmark.html",
+		"arg": "Bookmark | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Bookmark.html"
 	},
 	{
-		"title" : "Script (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Script",
-		"arg" : "Script||https://scripting.getdrafts.com/classes/Script"
+		"title": "FileManager | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/FileManager.html",
+		"arg": "FileManager | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/FileManager.html"
 	},
 	{
-		"title" : "Share (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Share",
-		"arg" : "Share||https://scripting.getdrafts.com/classes/Share"
+		"title": "Box | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Box.html",
+		"arg": "Box | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Box.html"
 	},
 	{
-		"title" : "ShellScript (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/ShellScript",
-		"arg" : "ShellScript||https://scripting.getdrafts.com/classes/ShellScript"
+		"title": "CallbackURL | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/CallbackURL.html",
+		"arg": "CallbackURL | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/CallbackURL.html"
 	},
 	{
-		"title" : "Syntax (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Syntax",
-		"arg" : "Syntax||https://scripting.getdrafts.com/classes/Syntax"
+		"title": "Context | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Context.html",
+		"arg": "Context | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Context.html"
 	},
 	{
-		"title" : "TJSChecklistItem (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/TJSChecklistItem",
-		"arg" : "TJSChecklistItem||https://scripting.getdrafts.com/classes/TJSChecklistItem"
+		"title": "Credential | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Credential.html",
+		"arg": "Credential | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Credential.html"
 	},
 	{
-		"title" : "TJSContainer (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/TJSContainer",
-		"arg" : "TJSContainer||https://scripting.getdrafts.com/classes/TJSContainer"
+		"title": "Device | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Device.html",
+		"arg": "Device | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Device.html"
 	},
 	{
-		"title" : "TJSHeading (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/TJSHeading",
-		"arg" : "TJSHeading||https://scripting.getdrafts.com/classes/TJSHeading"
+		"title": "Dropbox | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Dropbox.html",
+		"arg": "Dropbox | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Dropbox.html"
 	},
 	{
-		"title" : "TJSProject (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/TJSProject",
-		"arg" : "TJSProject||https://scripting.getdrafts.com/classes/TJSProject"
+		"title": "DropboxRequestSettings | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/interfaces/DropboxRequestSettings.html",
+		"arg": "DropboxRequestSettings | Drafts Script Reference||https://beta-scripting.getdrafts.com/interfaces/DropboxRequestSettings.html"
 	},
 	{
-		"title" : "TJSTodo (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/TJSTodo",
-		"arg" : "TJSTodo||https://scripting.getdrafts.com/classes/TJSTodo"
+		"title": "dropboxMode | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/dropboxMode.html",
+		"arg": "dropboxMode | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/dropboxMode.html"
 	},
 	{
-		"title" : "Theme (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Theme",
-		"arg" : "Theme||https://scripting.getdrafts.com/classes/Theme"
+		"title": "Ghost | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Ghost.html",
+		"arg": "Ghost | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Ghost.html"
 	},
 	{
-		"title" : "Todoist (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Todoist",
-		"arg" : "Todoist||https://scripting.getdrafts.com/classes/Todoist"
+		"title": "GitHubMarkdown | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/GitHubMarkdown.html",
+		"arg": "GitHubMarkdown | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/GitHubMarkdown.html"
 	},
 	{
-		"title" : "Twitter (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Twitter",
-		"arg" : "Twitter||https://scripting.getdrafts.com/classes/Twitter"
+		"title": "GmailMessage | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/GmailMessage.html",
+		"arg": "GmailMessage | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/GmailMessage.html"
 	},
 	{
-		"title" : "Version (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Version",
-		"arg" : "Version||https://scripting.getdrafts.com/classes/Version"
+		"title": "GoogleAI | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/GoogleAI.html",
+		"arg": "GoogleAI | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/GoogleAI.html"
 	},
 	{
-		"title" : "WordPress (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/WordPress",
-		"arg" : "WordPress||https://scripting.getdrafts.com/classes/WordPress"
+		"title": "GoogleDrive | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/GoogleDrive.html",
+		"arg": "GoogleDrive | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/GoogleDrive.html"
 	},
 	{
-		"title" : "Workspace (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/Workspace",
-		"arg" : "Workspace||https://scripting.getdrafts.com/classes/Workspace"
+		"title": "GoogleTask | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/GoogleTask.html",
+		"arg": "GoogleTask | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/GoogleTask.html"
 	},
 	{
-		"title" : "XMLRPC (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/XMLRPC",
-		"arg" : "XMLRPC||https://scripting.getdrafts.com/classes/XMLRPC"
+		"title": "HTML | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/HTML.html",
+		"arg": "HTML | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/HTML.html"
 	},
 	{
-		"title" : "XMLRPCResponse (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/classes/XMLRPCResponse",
-		"arg" : "XMLRPCResponse||https://scripting.getdrafts.com/classes/XMLRPCResponse"
+		"title": "HTMLPreview | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/HTMLPreview.html",
+		"arg": "HTMLPreview | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/HTMLPreview.html"
 	},
 	{
-		"title" : "DropboxRequestSettings (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/interfaces/DropboxRequestSettings",
-		"arg" : "DropboxRequestSettings||https://scripting.getdrafts.com/interfaces/DropboxRequestSettings"
+		"title": "HTMLToMarkdown | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/HTMLToMarkdown.html",
+		"arg": "HTMLToMarkdown | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/HTMLToMarkdown.html"
 	},
 	{
-		"title" : "capitalizationTypes (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/capitalizationTypes",
-		"arg" : "capitalizationTypes||https://scripting.getdrafts.com/types/capitalizationTypes"
+		"title": "Mail | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Mail.html",
+		"arg": "Mail | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Mail.html"
 	},
 	{
-		"title" : "draftFolderTab (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/draftFolderTab",
-		"arg" : "draftFolderTab||https://scripting.getdrafts.com/types/draftFolderTab"
+		"title": "mailStatus | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/mailStatus.html",
+		"arg": "mailStatus | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/mailStatus.html"
 	},
 	{
-		"title" : "dropboxMode (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/dropboxMode",
-		"arg" : "dropboxMode||https://scripting.getdrafts.com/types/dropboxMode"
+		"title": "Mastodon | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Mastodon.html",
+		"arg": "Mastodon | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Mastodon.html"
 	},
 	{
-		"title" : "flagStatus (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/flagStatus",
-		"arg" : "flagStatus||https://scripting.getdrafts.com/types/flagStatus"
+		"title": "mastodonVisibility | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/mastodonVisibility.html",
+		"arg": "mastodonVisibility | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/mastodonVisibility.html"
 	},
 	{
-		"title" : "googleTask (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/googleTask",
-		"arg" : "googleTask||https://scripting.getdrafts.com/types/googleTask"
+		"title": "Medium | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Medium.html",
+		"arg": "Medium | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Medium.html"
 	},
 	{
-		"title" : "googleTaskList (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/googleTaskList",
-		"arg" : "googleTaskList||https://scripting.getdrafts.com/types/googleTaskList"
+		"title": "Message | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Message.html",
+		"arg": "Message | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Message.html"
 	},
 	{
-		"title" : "keyboardTypes (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/keyboardTypes",
-		"arg" : "keyboardTypes||https://scripting.getdrafts.com/types/keyboardTypes"
+		"title": "MicrosoftToDo | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/MicrosoftToDo.html",
+		"arg": "MicrosoftToDo | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/MicrosoftToDo.html"
 	},
 	{
-		"title" : "linkedItem (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/linkedItem",
-		"arg" : "linkedItem||https://scripting.getdrafts.com/types/linkedItem"
+		"title": "MultiMarkdown | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/MultiMarkdown.html",
+		"arg": "MultiMarkdown | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/MultiMarkdown.html"
 	},
 	{
-		"title" : "mailStatus (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/mailStatus",
-		"arg" : "mailStatus||https://scripting.getdrafts.com/types/mailStatus"
+		"title": "MustacheTemplate | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/MustacheTemplate.html",
+		"arg": "MustacheTemplate | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/MustacheTemplate.html"
 	},
 	{
-		"title" : "microsoftToDoLinkedResource (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/microsoftToDoLinkedResource",
-		"arg" : "microsoftToDoLinkedResource||https://scripting.getdrafts.com/types/microsoftToDoLinkedResource"
+		"title": "Notion | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Notion.html",
+		"arg": "Notion | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Notion.html"
 	},
 	{
-		"title" : "microsoftToDoTask (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/microsoftToDoTask",
-		"arg" : "microsoftToDoTask||https://scripting.getdrafts.com/types/microsoftToDoTask"
+		"title": "OneDrive | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/OneDrive.html",
+		"arg": "OneDrive | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/OneDrive.html"
 	},
 	{
-		"title" : "microsoftToDoTaskList (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/microsoftToDoTaskList",
-		"arg" : "microsoftToDoTaskList||https://scripting.getdrafts.com/types/microsoftToDoTaskList"
+		"title": "OutlookMessage | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/OutlookMessage.html",
+		"arg": "OutlookMessage | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/OutlookMessage.html"
 	},
 	{
-		"title" : "navigationMarker (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/navigationMarker",
-		"arg" : "navigationMarker||https://scripting.getdrafts.com/types/navigationMarker"
+		"title": "Prompt | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Prompt.html",
+		"arg": "Prompt | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Prompt.html"
 	},
 	{
-		"title" : "queryDateField (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/queryDateField",
-		"arg" : "queryDateField||https://scripting.getdrafts.com/types/queryDateField"
+		"title": "tintColor | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/tintColor.html",
+		"arg": "tintColor | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/tintColor.html"
 	},
 	{
-		"title" : "queryDateType (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/queryDateType",
-		"arg" : "queryDateType||https://scripting.getdrafts.com/types/queryDateType"
+		"title": "capitalizationTypes | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/capitalizationTypes.html",
+		"arg": "capitalizationTypes | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/capitalizationTypes.html"
 	},
 	{
-		"title" : "selectionRange (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/selectionRange",
-		"arg" : "selectionRange||https://scripting.getdrafts.com/types/selectionRange"
+		"title": "keyboardTypes | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/keyboardTypes.html",
+		"arg": "keyboardTypes | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/keyboardTypes.html"
 	},
 	{
-		"title" : "sortBy (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/sortBy",
-		"arg" : "sortBy||https://scripting.getdrafts.com/types/sortBy"
+		"title": "Script | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Script.html",
+		"arg": "Script | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Script.html"
 	},
 	{
-		"title" : "syntaxType (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/syntaxType",
-		"arg" : "syntaxType||https://scripting.getdrafts.com/types/syntaxType"
+		"title": "Share | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Share.html",
+		"arg": "Share | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Share.html"
 	},
 	{
-		"title" : "themeType (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/types/themeType",
-		"arg" : "themeType||https://scripting.getdrafts.com/types/themeType"
+		"title": "ShellScript | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/ShellScript.html",
+		"arg": "ShellScript | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/ShellScript.html"
 	},
 	{
-		"title" : "action (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/action-1",
-		"arg" : "action||https://scripting.getdrafts.com/variables/action-1"
+		"title": "Speech | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Speech.html",
+		"arg": "Speech | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Speech.html"
 	},
 	{
-		"title" : "app (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/app-1",
-		"arg" : "app||https://scripting.getdrafts.com/variables/app-1"
+		"title": "SpeechVoice | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/SpeechVoice.html",
+		"arg": "SpeechVoice | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/SpeechVoice.html"
 	},
 	{
-		"title" : "context (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/context-1",
-		"arg" : "context||https://scripting.getdrafts.com/variables/context-1"
+		"title": "TJSChecklistItem | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/TJSChecklistItem.html",
+		"arg": "TJSChecklistItem | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/TJSChecklistItem.html"
 	},
 	{
-		"title" : "device (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/device-1",
-		"arg" : "device||https://scripting.getdrafts.com/variables/device-1"
+		"title": "TJSContainer | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/TJSContainer.html",
+		"arg": "TJSContainer | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/TJSContainer.html"
 	},
 	{
-		"title" : "draft (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/draft-1",
-		"arg" : "draft||https://scripting.getdrafts.com/variables/draft-1"
+		"title": "TJSProject | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/TJSProject.html",
+		"arg": "TJSProject | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/TJSProject.html"
 	},
 	{
-		"title" : "editor (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/variables/editor-1",
-		"arg" : "editor||https://scripting.getdrafts.com/variables/editor-1"
+		"title": "TJSHeading | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/TJSHeading.html",
+		"arg": "TJSHeading | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/TJSHeading.html"
 	},
 	{
-		"title" : "adjustDate (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/functions/adjustDate",
-		"arg" : "adjustDate||https://scripting.getdrafts.com/functions/adjustDate"
+		"title": "TJSTodo | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/TJSTodo.html",
+		"arg": "TJSTodo | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/TJSTodo.html"
 	},
 	{
-		"title" : "alert (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/functions/alert",
-		"arg" : "alert||https://scripting.getdrafts.com/functions/alert"
+		"title": "Tag | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Tag.html",
+		"arg": "Tag | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Tag.html"
 	},
 	{
-		"title" : "require (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/functions/require",
-		"arg" : "require||https://scripting.getdrafts.com/functions/require"
+		"title": "Todoist | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Todoist.html",
+		"arg": "Todoist | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Todoist.html"
 	},
 	{
-		"title" : "strftime (β)",
-		"subtitle" : "URL = https://scripting.getdrafts.com/functions/strftime",
-		"arg" : "strftime||https://scripting.getdrafts.com/functions/strftime"
+		"title": "Twitter | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/Twitter.html",
+		"arg": "Twitter | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/Twitter.html"
 	},
 	{
-		"title" : "strftime Manual (β)",
+		"title": "WordPress | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/WordPress.html",
+		"arg": "WordPress | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/WordPress.html"
+	},
+	{
+		"title": "XMLRPCResponse | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/XMLRPCResponse.html",
+		"arg": "XMLRPCResponse | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/XMLRPCResponse.html"
+	},
+	{
+		"title": "XMLRPC | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/classes/XMLRPC.html",
+		"arg": "XMLRPC | Drafts Script Reference||https://beta-scripting.getdrafts.com/classes/XMLRPC.html"
+	},
+	{
+		"title": "googleTask | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/googleTask-1.html",
+		"arg": "googleTask | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/googleTask-1.html"
+	},
+	{
+		"title": "googleTaskList | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/googleTaskList.html",
+		"arg": "googleTaskList | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/googleTaskList.html"
+	},
+	{
+		"title": "microsoftToDoLinkedResource | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/microsoftToDoLinkedResource.html",
+		"arg": "microsoftToDoLinkedResource | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/microsoftToDoLinkedResource.html"
+	},
+	{
+		"title": "microsoftToDoTask | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/microsoftToDoTask.html",
+		"arg": "microsoftToDoTask | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/microsoftToDoTask.html"
+	},
+	{
+		"title": "microsoftToDoTaskList | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/types/microsoftToDoTaskList.html",
+		"arg": "microsoftToDoTaskList | Drafts Script Reference||https://beta-scripting.getdrafts.com/types/microsoftToDoTaskList.html"
+	},
+	{
+		"title": "action | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/action-1.html",
+		"arg": "action | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/action-1.html"
+	},
+	{
+		"title": "app | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/app-1.html",
+		"arg": "app | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/app-1.html"
+	},
+	{
+		"title": "context | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/context-1.html",
+		"arg": "context | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/context-1.html"
+	},
+	{
+		"title": "device | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/device-1.html",
+		"arg": "device | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/device-1.html"
+	},
+	{
+		"title": "draft | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/draft-1.html",
+		"arg": "draft | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/draft-1.html"
+	},
+	{
+		"title": "editor | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/variables/editor-1.html",
+		"arg": "editor | Drafts Script Reference||https://beta-scripting.getdrafts.com/variables/editor-1.html"
+	},
+	{
+		"title": "alert | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/functions/alert.html",
+		"arg": "alert | Drafts Script Reference||https://beta-scripting.getdrafts.com/functions/alert.html"
+	},
+	{
+		"title": "require | Drafts Script Reference (β)",
+		"subtitle": "URL = https://beta-scripting.getdrafts.com/functions/require.html",
+		"arg": "require | Drafts Script Reference||https://beta-scripting.getdrafts.com/functions/require.html"
+	},
+	{
+		"title" : "strftime Manual",
 		"subtitle" : "URL = https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/strftime.3.html",
 		"arg" : "strftime Manual||https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/strftime.3.html"
 	}
